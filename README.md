@@ -1,3 +1,13 @@
+# SPM grouproject done by SER093 students
+#this is a hospital management system developed using MERN Stack.
+Clone this repository and run npm install. 
+Configure your own google Oauth.
+Run the application.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
