@@ -1,0 +1,96 @@
+.loginForm {
+  background: #fff;
+  padding: 20px;
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+
+.inline-link {
+  margin-left: 10px;
+  font-weight: bold;
+}
+
+.form-group {
+  margin: 0;
+  padding: 5px;
+}
+
+.form-group label {
+  font-size: 14px;
+  color: #7b7b7b;
+  margin-bottom: 5px;
+}
+
+#genderLabel {
+  margin-right: 10px;
+}
+
+.form-wrap {
+  padding: 20px;
+  background: #f8f8f8;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 550px;
+  margin: 0 auto;
+}
+
+.form-wrap h2 {
+  margin-bottom: 20px;
+  font-weight: bold;
+  font-size: 26px;
+}
+
+.form-control {
+  background: #edf5f1;
+  border: 1px solid #c2ded1;
+}
+
+.form-control:disabled,
+.form-control[readonly] {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  color: #7b7b7b;
+}
+
+.label-wrap{
+  flex-basis: 25%;
+  padding: 10px;
+}
+
+.label-wrap label{
+  text-transform: capitalize;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.input-wrap{
+  flex-basis: 75%;
+  padding: 5px;
+}
+
+.input-wrap input, .input-wrap select, .input-wrap .form-control, .form-control{
+  width: 100%;
+  padding: 10px 15px;
+  font-size: 18px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.btn-submit, .btn-delete{  
+  padding: 15px 35px;
+  font-size: 20px;
+  color: #fff;
+  font-weight: bold;
+  text-transform: uppercase;
+  border-radius: 10px;
+  box-shadow: 0 3px 5px rgba(0,0,0,0.2);
+
+}
+
+.btn-submit{
+  background: #4655F5;
+}
+
+.btn-delete{
+  background: #D11A2A;
+}
